@@ -224,6 +224,6 @@ laya-demo-web/
 
 ## Licence and attribution
 
-This repo is an unlicensed sample wrapper: add a LICENSE before publishing.
+This repo is licensed under the [Apache License 2.0](LICENSE).
 
-Laya itself is Apache 2.0, by Convai Innovations. TypeSafe Jev is a separate product whose API shape `laya-api` mirrors; there is no affiliation.
+Laya itself is also Apache 2.0, by Convai Innovations. TypeSafe Jev is a separate product whose API shape `laya-api` mirrors; there is no affiliation.
